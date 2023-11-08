@@ -1,5 +1,5 @@
 # digits-meteor-project
-<img width="600px" class="rounded mx-auto d-block pb-3 justify-content-center" src="../doc/p1">
+<img width="600px" class="rounded mx-auto d-block pb-3 justify-content-center" src="../doc/landing-page">
 
 ## Table of Contents
 * [What is Digits?](#what-can-you-do-with-digits?)
