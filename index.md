@@ -30,7 +30,7 @@ to start the app which will create some default contact user and contact data.
 
 You will see this
 
-<img width="600px" class="rounded mx-auto d-block pb-3 justify-content-center" src="doc/local-host">
+<img width="600px" class="rounded mx-auto d-block pb-3 justify-content-center" src="doc/local-host.png">
 
 once your app is up and running and can be seen at "http://localhost:3000/". 
 
